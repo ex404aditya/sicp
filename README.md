@@ -1,13 +1,12 @@
 # SICP
 
-SICP (Structure and Interpretation of Computer Programs) is a masterpiece of
-Harold Abelson and Gerald Jay Sussman on basics of computer science and software engineering.
+SICP (Structure and Interpretation of Computer Programs) is a masterpiece by Harold Abelson and Gerald Jay Sussman on the basics of computer science and software engineering.
 
-This is a series of of code exercises I will be doing out of the the book SICP (Structure and Interpretation of Computer Programs) , this is going to be the first of the many books I will be solving in my future programming endevours.
+This is a series of code exercises I will be doing from the book SICP (Structure and Interpretation of Computer Programs). This will be the first of many books I plan to work through in my future programming endeavors.
 
-Choosing the Lisp version of the book holds special significance for me. By studying programming literature from its early days, i hope to actualize the thought process of the formative years.
+Choosing the Lisp version of the book holds special significance for me. By studying programming literature from its early days, I hope to understand the thought processes of those formative years.
 
-This is a self imposed learning structure tailored to my personal goals. I do not endorse other to follow this repo.
+This is a self-imposed learning structure tailored to my personal goals. I do not endorse others to follow this repository.
 
 ### Goal
 
