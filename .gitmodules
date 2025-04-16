@@ -1,0 +1,3 @@
+[submodule "sicp-ex"]
+	path = sicp-ex
+	url = https://github.com/rparnas/sicp-ex.git
