@@ -1,4 +1,8 @@
 #lang sicp
+
+;;we are just gonna use the version we learned that is O(n^2)
+;;for efficiency we are just eliminating subtrees by applying conditions for each kind of coin
+
 (define (square x) (* x x))
 
 (define (count-change amount)
